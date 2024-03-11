@@ -1,99 +1,37 @@
 ---
-title: "About"
+title: "About Us"
 permalink: "/about/"
 layout: page
 ---
 
-## Installation
+# About Ricky Miura
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Ricky is an ambitious student poised to make his mark in the field of data science, aiming for a career as a machine learning engineer. His passion for deep learning and its applications in creating data-driven solutions that make a positive impact is a driving force behind his career aspirations. Ricky is nearing the completion of his undergraduate studies, anticipating his graduation in June 2024. Eager to build upon the foundation laid during his bachelor's degree, he is looking forward to advancing his expertise by pursuing a Master's Degree in Data Science. 
 
-## Features
+- LinkedIn: [Ricky Miura](https://www.linkedin.com/in/rickymiura/)
+- GitHub: [rickymiura](https://github.com/RickyMiura)
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+![Ricky Miura](/assets/ricky.png))
 
-## Based on
+---
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+# About Sheena Patel
 
-## Installation (jekyll-remote-theme method)
+Sheena Patel is a driven data science student at the University of California, San Diego, set to graduate in March 2024. With a diverse range of skills, including proficiency in multiple programming languages, her professional journey includes pivotal roles such as a Digital and Technology Intern at Abercrombie & Fitch, a Data Science Intern at Data Science Alliance, and a Product Management Intern at Cisco. Through these experiences, she has demonstrated expertise in problem-solving and data analysis, traits that she is eager to apply in self-driven projects outside of work. Beyond academia and industry, she actively engages with organizations like the San Diego Rescue Mission, reflecting her commitment to harnessing data science for societal betterment.
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+- LinkedIn: [Sheena Patel](https://www.linkedin.com/in/sheena-patel-022/)
+- GitHub: [sheenapdesigns](https://github.com/sheenapatel262)
 
-```yaml
-remote_theme: niklasbuschmann/contrast@v2.11
+![Sheena Patel](/assets/sheena.png))
 
-plugins:
-  - jekyll-remote-theme
-```
+---
 
-Note: to enable icons you also need to copy over the `_data` folder.
+# About Gita Anand
 
-## Config
+Gita Anand is a seasoned data scientist specializing in machine learning and predictive analytics. With a background in mathematics and statistics, Gita enjoys exploring data to uncover valuable insights and drive informed decision-making.
 
-Your `_config.yml` could for example look like this:
+- LinkedIn: [Gita Anand](https://www.linkedin.com/in/gitaanand)
+- GitHub: [gita-data](https://github.com/gita-data)
 
-```yaml
-title: "Blog Title"
-author: "Blog Author"
-description: "My personal blog about ... something"
-permalink: /:title/
-lang: "en"
-excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+![Gita Anand](gita_anand.jpg)
 
-# Layout
-
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-
-# Menu
-
-navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
-plugins:
- - jekyll-feed
-
-```
-
-## MathJax
-
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
-
-## License
-
-[public domain](http://unlicense.org/)
-
-## Screenshots
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
