@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title: "Exploring Complex Graph Representations of Highway Networks for Traffic Speed Forecasting"
+author: "Ricky Miura, Gita Anand, Sheena Patel"
+description: "HDSI Capstone 2024"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
