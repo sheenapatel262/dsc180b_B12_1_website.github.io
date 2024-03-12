@@ -4,6 +4,8 @@ layout: post
 ---
 Explore the diverse representations of highway networks through distinct graph structures, each tailored with unique edge connections and node features. Dive into the dynamics of traffic flow across various time frames within a unified structural framework.
 
+![Sensor Maps](/assets/sensor-map.png)
+
 ## Nodes
 - **Sensor Representation**: Each node embodies a sensor strategically positioned along the highway network, serving as a crucial data point for analysis.
 - **Feature Vector Construction**: Construct feature vectors for nodes, encapsulating a plethora of attributes that depict the sensor's state within specific time frames.
