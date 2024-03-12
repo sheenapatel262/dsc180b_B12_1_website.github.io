@@ -2,23 +2,15 @@
 {% for post in posts %}
   <article>
     {% include meta.html post=post preview=true %}
-    {% if post.excerpt.size > 200 %}
-      <div id="post-{{ post.id }}-excerpt">{{ post.excerpt | slice: 0, 200 }}...</div>
-      <div id="post-{{ post.id }}-content" style="display: none;">{{ post.content }}</div>
-      <div class="more"><a href="javascript:void(0);" onclick="showFullContent('{{ post.id }}')">read more</a></div>
-    {% else %}
-      {{ post.content }}
-    {% endif %}
+    {{ post.excerpt }}
+    <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
   </article>
 {% endfor %}
 
-<script>
-function showFullContent(postId) {
-    var excerptDiv = document.getElementById("post-" + postId + "-excerpt");
-    var contentDiv = document.getElementById("post-" + postId + "-content");
-    var moreLink = excerptDiv.nextElementSibling;
-    excerptDiv.style.display = "none";
-    contentDiv.style.display = "block";
-    moreLink.style.display = "none";
-}
-</script>
+{% if paginator.total_pages > 1 %}
+  <footer>
+    {% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | relative_url }}">« newer posts</a>{% else %}<span></span>{% endif %}
+    <span>page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}">older posts »</a>{% else %}<span></span>{% endif %}
+  </footer>
+{% endif %}
