@@ -13,7 +13,8 @@ Ricky is an ambitious student poised to make his mark in the field of data scien
   
 % ![Ricky Miura](/assets/ricky.png = 250x250)
 
-<center><img src='/assets/ricky.png' width='250'></center>
+<center> <img src= '/assets/sheena.png' width='250'> </center>
+
 
 
 ---
