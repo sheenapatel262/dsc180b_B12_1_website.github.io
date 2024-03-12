@@ -2,9 +2,23 @@
 {% for post in posts %}
   <article>
     {% include meta.html post=post preview=true %}
-    {% capture halfway %}
-      {{ post.excerpt | split:' ' | size | divided_by:2 }}
-    {% endcapture %}
-    {{ post.excerpt | split:' ' | slice:0, halfway }} <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div> {{ post.excerpt | split:' ' | slice: halfway, halfway | join:' ' }}
+    {% if post.excerpt.size > 200 %}
+      <div id="post-{{ post.id }}-excerpt">{{ post.excerpt | slice: 0, 200 }}...</div>
+      <div id="post-{{ post.id }}-content" style="display: none;">{{ post.content }}</div>
+      <div class="more"><a href="javascript:void(0);" onclick="showFullContent('{{ post.id }}')">read more</a></div>
+    {% else %}
+      {{ post.content }}
+    {% endif %}
   </article>
 {% endfor %}
+
+<script>
+function showFullContent(postId) {
+    var excerptDiv = document.getElementById("post-" + postId + "-excerpt");
+    var contentDiv = document.getElementById("post-" + postId + "-content");
+    var moreLink = excerptDiv.nextElementSibling;
+    excerptDiv.style.display = "none";
+    contentDiv.style.display = "block";
+    moreLink.style.display = "none";
+}
+</script>
