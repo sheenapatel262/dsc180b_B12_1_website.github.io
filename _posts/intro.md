@@ -7,10 +7,6 @@ layout: post
 
 In a world where automobiles are ubiquitous, traffic congestion remains a persistent challenge. Existing solutions often fall short in predicting traffic flow effectively, leaving commuters trapped in congestion. Our innovative approach leverages graph neural networks (GNNs) to revolutionize traffic prediction by integrating time series and geospatial analysis methodologies. By focusing on recent traffic sensor data in San Diego, our endeavor aims to forecast traffic flow accurately, empowering drivers with timely information to navigate congested routes more efficiently.
 
-## Exploring Graph Neural Networks
-
 Graph neural networks (GNNs) represent a breakthrough in machine learning, offering flexibility in data organization and enhancing various algorithmic applications. In our capstone project, we evaluated various GNN models and embarked on creating a Spatio-Temporal Graph Attention Network (ST-GAT) to predict traffic flow patterns across San Diego County's primary highways.
-
-## Future Directions
 
 Our project trajectory involves refining our model by exploring diverse edge relationships and integrating additional features such as time series components and Euclidean distance connectivity. These enhancements promise to optimize commuter experiences by providing more accurate traffic predictions.
