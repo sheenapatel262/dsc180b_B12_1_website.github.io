@@ -11,11 +11,7 @@ Ricky is an ambitious student poised to make his mark in the field of data scien
 - LinkedIn: [Ricky Miura](https://www.linkedin.com/in/rickymiura/)
 - GitHub: [rickymiura](https://github.com/RickyMiura)
   
-% ![Ricky Miura](/assets/ricky.png = 250x250)
-
-<center> <img src= '/assets/sheena.png' width='250'> </center>
-
-
+![Ricky Miura](/assets/sheena.png)
 
 ---
 
@@ -26,9 +22,7 @@ Sheena Patel is a driven data science student at the University of California, S
 - LinkedIn: [Sheena Patel](https://www.linkedin.com/in/sheena-patel-022/)
 - GitHub: [sheenapdesigns](https://github.com/sheenapatel262)
 
-<p align="center">
-    <img src="/assets/sheena.png" alt="Sheena Patel" width="300" style="margin:auto;">
-</p>
+![Sheena Patel](/assets/sheena.png)
 
 ---
 
