@@ -30,12 +30,3 @@ Dive into the spatial dynamics of highway networks through a comprehensive under
 ### Type 3: Long-Range Dependencies
 - **Capturing Extended Interactions**: Grasp the impact of traffic dynamics originating from distant locales within a designated highway.
 - **Efficient Representation**: Utilize skip connections to capture long-range interactions directly, mitigating the challenges posed by extensive propagation through intermediate sensors.
-
-## Table
-
-| Title 1          | Title 2          | Title 3         | Title 4         |
-|------------------|------------------|-----------------|-----------------|
-| First entry      | Second entry     | Third entry     | Fourth entry    |
-| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
-| Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
-| Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
