@@ -7,6 +7,9 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 paginate: 5
 
+baseurl: '/dsc180b_B12_1_website.github.io' # TODO update this
+url: 'https://sheenapatel262.github.io/' # the base hostname & protocol for your site, e.g. http://example.com (don't change this)
+
 # Layout
 
 show_excerpts: true        # show article excerpts on the home page
