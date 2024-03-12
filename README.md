@@ -14,7 +14,7 @@ Ricky is an ambitious student poised to make his mark in the field of data scien
 
 <center>
 
-<img src="/assets/ricky.png" width=500>
+<img src="../assets/ricky.png" width=500>
   
 </center>
 
