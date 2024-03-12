@@ -10,8 +10,13 @@ Ricky is an ambitious student poised to make his mark in the field of data scien
 
 - LinkedIn: [Ricky Miura](https://www.linkedin.com/in/rickymiura/)
 - GitHub: [rickymiura](https://github.com/RickyMiura)
+
+
+<center>
+
+<img src="/assets/ricky.png" width=500>
   
-![Ricky Miura](/assets/ricky.png)
+</center>
 
 ---
 
