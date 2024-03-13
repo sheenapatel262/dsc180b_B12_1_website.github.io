@@ -6,20 +6,15 @@ Explore the diverse representations of highway networks through distinct graph s
 
 
 ## Nodes
-- **Sensor Representation**: Each node embodies a sensor strategically positioned along the highway network, serving as a crucial data point for analysis.
-- **Feature Vector Construction**: Construct feature vectors for nodes, encapsulating a plethora of attributes that depict the sensor's state within specific time frames.
+Explore the intricacies of highway network analytics by integrating sensor node data and constructing feature vectors to capture the state and dynamics of sensors within specific time frames:
 
-#### Speed Window
-- **Temporal Dynamics Integration**: Captures dynamic speed variations by utilizing a window of previous aggregated speeds from specific time intervals
+- **Speed Window**: Captures dynamic speed variations by utilizing a window of previous aggregated speeds from specific time intervals
 
-#### Lane Count
-- Identifies the constant number of lanes adjacent to each sensor as a critical factor for understanding traffic flow dynamics and bottleneck phenomena
+- **Lane Count**: Identifies the constant number of lanes adjacent to each sensor as a critical factor for understanding traffic flow dynamics and bottleneck phenomena
 
-#### Day of Week
-- Identifies the constant number of lanes adjacent to each sensor as a critical factor for understanding traffic flow dynamics and bottleneck phenomena
+- **Day of Week**: Helps in understanding how traffic patterns vary throughout the week, considering factors like weekday rush hours and weekend leisure travel.
 
-#### Hour of Day
-- Incorporates the time of day, using a sinusoidal and cosine transformation to capture the cyclical nature of traffic patterns, notably during rush hours
+- **Hour of Day**: Incorporates the time of day, using a sinusoidal and cosine transformation to capture the cyclical nature of traffic patterns, notably during rush hours
 
 ## Edges
 Dive into the spatial dynamics of highway networks through a comprehensive understanding of edge connections:
