@@ -4,7 +4,7 @@ description: "HDSI Capstone 2024"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+# date_format: "%B %d, %Y"
 paginate: 5
 
 baseurl: '/dsc180b_B12_1_website.github.io' # TODO update this
