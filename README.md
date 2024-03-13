@@ -14,7 +14,7 @@ Ricky is an ambitious student poised to make his mark in the field of data scien
 
 <center>
 
-<img src="../assets/ricky.png" width= 250>
+<img src="../assets/ricky.png" width= 300>
   
 </center>
 
@@ -29,7 +29,7 @@ Sheena Patel is a driven data science student at the University of California, S
 
 <center>
 
-<img src="../assets/sheena.png" width= 250>
+<img src="../assets/sheena.png" width= 300>
   
 </center>
 
