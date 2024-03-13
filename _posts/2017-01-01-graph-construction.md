@@ -32,5 +32,5 @@ Dive into the spatial dynamics of highway networks through a comprehensive under
 - **Efficient Representation**: Utilize skip connections to capture long-range interactions directly, mitigating the challenges posed by extensive propagation through intermediate sensors.
   
 <center>
-<img src="../assets/edge_types-3.png" width= 500>
+<img src= "../assets/edge_types.png" width= 500>
 </center>
