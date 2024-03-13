@@ -14,6 +14,7 @@ Ricky is an ambitious student poised to make his mark in the field of data scien
 
 - LinkedIn: [rickymiura](https://www.linkedin.com/in/rickymiura/)
 - GitHub: [RickyMiura](https://github.com/RickyMiura)
+  
 ---
 
 # Sheena Patel
@@ -26,6 +27,7 @@ Sheena Patel is a driven data science student at the University of California, S
 
 - LinkedIn: [sheena-patel-022](https://www.linkedin.com/in/sheena-patel-022/)
 - GitHub: [sheenapatel262](https://github.com/sheenapatel262)
+
 ---
 
 # Gita Anand
@@ -38,3 +40,4 @@ Gita Anand is a fourth-year data science major with a mathematics minor at UC Sa
 
 - LinkedIn: [gitaand](https://www.linkedin.com/in/gitaanand)
 - GitHub: [gita-data](https://github.com/gita-data)
+
