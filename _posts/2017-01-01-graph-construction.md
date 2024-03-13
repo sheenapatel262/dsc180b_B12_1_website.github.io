@@ -2,7 +2,7 @@
 title:  "Graph Construction"
 layout: post
 ---
-Explore the diverse representations of highway networks through distinct graph structures, each tailored with unique edge connections and node features. Dive into the dynamics of traffic flow across various time frames within a unified structural framework.
+Explore the diverse representations of highway networks through distinct graph structures, each tailored with unique **edge connections** and **node features**. Dive into the dynamics of traffic flow across various time frames within a unified structural framework.
 
 
 ## Nodes
