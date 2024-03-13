@@ -6,8 +6,8 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 paginate: 5
 
-baseurl: '/traffic_speed_forecasting' # TODO update this
-url: 'https://sheenapatel262.github.io/' # the base hostname & protocol for your site, e.g. http://example.com (don't change this)
+baseurl: '/traffic_speed_forecasting'  # TODO update this
+url: 'https://sheenapatel262.github.io' # the base hostname & protocol for your site, e.g. http://example.com (don't change this)
 
 # Layout
 
