@@ -34,3 +34,4 @@ comments:
 
 plugins:
  - jekyll-feed
+ - authors: "Ricky Miura, Gita Anand, Sheena Patel"
