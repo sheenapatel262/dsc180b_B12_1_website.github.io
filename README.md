@@ -28,6 +28,8 @@ Sheena Patel is a driven data science student at the University of California, S
 - LinkedIn: [sheena-patel-022](https://www.linkedin.com/in/sheena-patel-022/)
 - GitHub: [sheenapatel262](https://github.com/sheenapatel262)
 
+{title: Github, icon: github, url: "https://github.com/RickyMiura/"}
+
 ---
 
 # Gita Anand
