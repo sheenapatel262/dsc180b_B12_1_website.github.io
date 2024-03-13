@@ -12,8 +12,14 @@ layout: page
 
 Ricky is an ambitious student poised to make his mark in the field of data science, aiming for a career as a machine learning engineer. His passion for deep learning and its applications in creating data-driven solutions that make a positive impact is a driving force behind his career aspirations. Ricky is nearing the completion of his undergraduate studies, anticipating his graduation in June 2024. Eager to build upon the foundation laid during his bachelor's degree, he is looking forward to advancing his expertise by pursuing a Master's Degree in Data Science. 
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/rickymiura/">LinkedIn</a> • 
+  <a href="https://github.com/RickyMiura">GitHub</a>
+</p>
+
 <center>
-[LinkedIn](https://www.linkedin.com/in/rickymiura/) • [GitHub](https://github.com/RickyMiura)
+<a href="https://www.linkedin.com/in/rickymiura/">LinkedIn</a> • 
+<a href="https://github.com/RickyMiura">GitHub</a>
 </center>
 ---
 
