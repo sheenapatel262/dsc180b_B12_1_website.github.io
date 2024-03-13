@@ -8,9 +8,6 @@ Explore the diverse representations of highway networks through distinct graph s
 ## Nodes
 - **Sensor Representation**: Each node embodies a sensor strategically positioned along the highway network, serving as a crucial data point for analysis.
 - **Feature Vector Construction**: Construct feature vectors for nodes, encapsulating a plethora of attributes that depict the sensor's state within specific time frames.
-<center>
-<img src="../assets/sensor-map.png" width= 250>
-</center>
 
 #### Speed Window
 - **Temporal Dynamics Integration**: Captures dynamic speed variations by utilizing a window of previous aggregated speeds from specific time intervals
